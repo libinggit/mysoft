@@ -1,0 +1,6 @@
+cn = "43.133.62.199"
+organization = "NanPing Rultr"
+expiration_days = 36500
+signing_key
+encryption_key
+tls_www_server

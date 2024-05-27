@@ -1,0 +1,8 @@
+cn = "43.133.62.199"
+organization = "NanPing Rultr"
+serial = 1
+expiration_days = 36500
+ca
+signing_key
+cert_signing_key
+crl_signing_key
